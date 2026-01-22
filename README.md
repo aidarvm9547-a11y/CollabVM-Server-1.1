@@ -1,9 +1,1 @@
-# compiled-collab-vm-server-win
-CollabVM pre-compiled for Windows.
-
-# What it contains
-* CollabVM 1.2.10
-* Themes
-
-# How to set up
-* Download and run.
+![Banner image](https://raw.githubusercontent.com/aidarvm9547-a11y/CollabVM-Server-1.1/refs/heads/main/webapp.png "Banner image")
