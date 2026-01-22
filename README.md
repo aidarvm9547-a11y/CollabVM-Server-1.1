@@ -14,3 +14,5 @@ This server was written very quickly to replace CollabVM Server 1.2.11, and so o
 If it can run a relatively new version of Node and QEMU, then you can run this. This means modern Linux distributions, modern macOS versions and Windows 10 and above.
 ### When the VM shuts off, instead of restarting, it freezes.
 This has been fixed already, you are running a copy of the code before January 12 2016.
+### Why not working screen CollabVM
+Screen CollabVM not working this this because this main.css.
