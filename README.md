@@ -1,6 +1,6 @@
 ![Banner image](https://raw.githubusercontent.com/aidarvm9547-a11y/CollabVM-Server-1.1/refs/heads/main/cvmserver.png "Banner image")
 # CollabVM Server 1.1
-This is a drop-in replacement for the dying CollabVM 1.1. After in beta
+This is a drop-in replacement for the dying CollabVM 1.1. After in beta version
 ## running
 1. Found files collab-vm-server
 2. if your not found running Command Prompt
