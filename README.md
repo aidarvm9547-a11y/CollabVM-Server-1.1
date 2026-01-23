@@ -10,8 +10,6 @@ This is a drop-in replacement for the dying CollabVM 1.1. After in beta version
 The server does not support the admin panel. Instead, there is a configuration file you can edit named admin.min.js or this port 6004
 ### Why only QEMU? Why not VMWare, VirtualBox, etc.?
 This server was written very quickly to replace CollabVM Server 1.1, and so only QEMU support exists. There are plans to support VMWare when CollabVM Server 3 releases.
-### What platforms can this be run on?
-If it can run a relatively new version of Node and QEMU, then you can run this. This means modern Linux distributions, modern macOS versions and Windows 10 and above.
 ### When the VM shuts off, instead of restarting, it freezes.
 This has been fixed already, you are running a copy of the code before January 12 2016.
 ### Why not working screen CollabVM
