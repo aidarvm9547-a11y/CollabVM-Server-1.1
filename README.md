@@ -2,7 +2,7 @@
 # CollabVM Server 1.1
 This is a drop-in replacement for the dying CollabVM 1.1. After in beta version
 ## running
-1. You finding files collab-vm-server.
+1. Your will finds file collabvm-server.exe.
 2. If your not found starting Command Prompt.
 3. Will you execute a command collab-vm-server port 6004.
 ## FAQ
