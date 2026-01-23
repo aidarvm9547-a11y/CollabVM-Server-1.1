@@ -6,8 +6,8 @@ This is a drop-in replacement for the dying CollabVM 1.1. After in beta version
 2. If your not found starting Command Prompt.
 3. Will you execute a command collab-vm-server port 6004.
 ## FAQ
-### When I try to access the admin panel, the server crashes!
-The server does not support the admin panel. Instead, there is a configuration file you can edit named admin.min.js or this port 6004
+### When I try to access the admin panel, the server not loading!
+The server does not loading the admin panel. Instead, there is a configuration file you can edit named admin.min.js or use port 6004
 ### Why only QEMU? Why not VMWare, VirtualBox, etc.?
 This server was written very quickly to replace CollabVM Server 1.1, and so only QEMU support exists. There are plans to support VMWare when CollabVM Server 3 releases.
 ### When the VM shuts off, instead of restarting, it freezes.
