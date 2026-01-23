@@ -2,9 +2,9 @@
 # CollabVM Server 1.1
 This is a drop-in replacement for the dying CollabVM 1.1. After in beta version
 ## running
-1. Found files collab-vm-server
-2. if your not found running Command Prompt
-3. will you execute a command collab-vm-server port 6004
+1. You finding files collab-vm-server.
+2. If your not found starting Command Prompt.
+3. Will you execute a command collab-vm-server port 6004.
 ## FAQ
 ### When I try to access the admin panel, the server crashes!
 The server does not support the admin panel. Instead, there is a configuration file you can edit named admin.min.js or this port 6004
