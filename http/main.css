@@ -9,7 +9,7 @@ body {
   font-family: Helvetica, sans-serif;
 }
 .guac-hide-cursor {
-  cursor: url('/web/20160128165218im_/http://computernewb.com/collab-vm/dot.gif'),default;
+  cursor: url('dot.gif'),default;
 }
 .focused {
   box-shadow: 0px 0px 9px 0px rgba(45, 213, 255, 0.75);
