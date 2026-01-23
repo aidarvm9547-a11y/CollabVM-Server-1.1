@@ -15,4 +15,4 @@ If it can run a relatively new version of Node and QEMU, then you can run this. 
 ### When the VM shuts off, instead of restarting, it freezes.
 This has been fixed already, you are running a copy of the code before January 12 2016.
 ### Why not working screen CollabVM
-Screen CollabVM not working this this because this main.css you can edit this.
+Screen CollabVM not working this, this because this main.css, you can edit this.
